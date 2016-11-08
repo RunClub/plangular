@@ -1,16 +1,4 @@
 
-:warning: **This repo is no longer being maintained**
-
-For creating custom SoundCloud players, I highly recommend [react-soundplayer](https://github.com/soundblogs/react-soundplayer) or for a more general solution, see [plyr](https://github.com/Selz/plyr).
-
-<div class="display-none">
-  <h1>Plangular</h1>
-  <p>
-    Angular directive for custom SoundCloud players
-    <a href="http://jxnblk.com/plangular">jxnblk.com/plangular</a>
-  </p>
-</div>
-
 ## Getting Started
 
 ```bash
@@ -243,5 +231,3 @@ Read more here: http://developers.soundcloud.com/docs/api/terms-of-use
 SoundCloud provides an option for users to prevent streaming to third-party apps.
 If your sound isn't playing check the `track.streamable` variable.
 If it's set to false, there is no way to play that sound with the API.
-
-
