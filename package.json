@@ -17,7 +17,7 @@
     "start": "npm run watch:js & npm run watch:docs & npm run serve"
   },
   "dependencies": {
-    "audio-player": "^1.0.0",
+    "audio-player": "git+https://github.com/RunClub/audio-player.git",
     "hhmmss": "^1.0.0",
     "soundcloud-resolve-jsonp": "^1.3.0"
   },
